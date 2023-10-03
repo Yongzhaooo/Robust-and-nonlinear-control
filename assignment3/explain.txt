@@ -1,0 +1,4 @@
+In the assignment3,
+we used P_nw and P_w
+In this part, the P_nw is only for comparing the Hinf and H2 controller with the LQI controller
+Since the weight for perfermance output never affects the design of the controller.
